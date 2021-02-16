@@ -1,6 +1,6 @@
 # A-star-algorithm
 
-  Inorder to run this program make sure you downloaded the all files.
+  Inorder to run this program make sure you downloaded all the files.
   
 #use:
   This algorithm is used to find the best path.

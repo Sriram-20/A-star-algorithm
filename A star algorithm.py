@@ -7,7 +7,7 @@ try:
     from tkinter import messagebox
     import os
 except:
-    import install_requirements  # install packages
+    import install_requirements  
 
     import pygame
     import sys
